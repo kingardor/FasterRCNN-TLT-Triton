@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Compressed files
+*.zip
+*.tar
+
+# Directories
+.vscode/
+ngccli
+.ipynb_checkpoints
+data/tfrecords
+data/training
+
+# Models
+*.hdf5
+*.tlt
+*.etlt
